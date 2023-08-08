@@ -10,23 +10,23 @@ The data set contains the following diseases:
 
 - Actinic keratosis
 - Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+- Dermatofibroma
+- Melanoma
+- Nevus
+- Pigmented benign keratosis
+- Seborrheic keratosis
+- Squamous cell carcinoma
+- Vascular lesion
  
 ## Project Pipeline
-Data Reading/Data Understanding
-Dataset Creation
-Dataset visualisation
-Model Building & Training
-Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
-Model Building & Training on the augmented data
-Class distribution
-Handling class imbalances
-Model Building & Training on the rectified class imbalance data
+- Data Reading/Data Understanding
+- Dataset Creation
+- Dataset visualisation
+- Model Building & Training
+- Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
+- Model Building & Training on the augmented data
+- Class distribution
+- Handling class imbalances
+- Model Building & Training on the rectified class imbalance data
 
 
